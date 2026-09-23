@@ -54,11 +54,11 @@ Workdays go to developer platforms and AI adoption. Off-hours I ship open source
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You Can Run a Neo Enterprise on Your Own](https://johnnyhuy.com/blog/neo-enterprises)
 - [Escapism or a Return to Form](https://johnnyhuy.com/blog/escapism-or-return-to-form)
 - [Software Engineering at the Tipping Point](https://johnnyhuy.com/blog/software-engineering-at-the-tipping-point)
 - [How to Rest So You Actually Recover](https://johnnyhuy.com/blog/how-to-rest-so-you-actually-recover)
 - [DHH's Standards Didn't Change, the Tools Did](https://johnnyhuy.com/blog/dhhs-standards-didnt-change)
-- [37,000 Lines of Slop](https://johnnyhuy.com/blog/37000-lines-of-slop)
 <!-- BLOG-POST-LIST:END -->
 
 [![GitHub](https://img.shields.io/badge/-johnnyhuy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnnyhuy)
